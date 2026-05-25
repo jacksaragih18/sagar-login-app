@@ -1,21 +1,17 @@
-SAGAR INNOVATION - Firebase Auth Version
+SAGAR INNOVATION FINAL UPDATE
 
-Versi ini sudah berisi firebaseConfig yang dikirim user:
-apiKey, authDomain, projectId, storageBucket, messagingSenderId, appId, measurementId.
-
-Upload file berikut ke folder GitHub Pages:
+Upload/timpa file ini ke repository sagar-login-app:
 - index.html
 - manifest.json
 - sw.js
 - icon-192.png
 - icon-512.png
 
-Pastikan file ini juga sudah ada di folder yang sama:
-- backgroundsaja.jpeg
-
-Login:
-ID       : jackruth
-Password : 181025
-
-Catatan:
-Aplikasi ini memakai Firebase SDK melalui CDN/browser import, bukan npm. Karena itu kode import dari Firebase Console tidak ditempel 100% sama, tetapi konfigurasi firebaseConfig-nya sudah dimasukkan.
+Perubahan utama:
+- Tombol login: Masuk
+- Tombol penyimpanan: Buka Penyimpanan
+- Deskripsi Firestore tidak ditampilkan lagi
+- Placeholder kanan: Hello my love / Hope you have a wonderful day
+- Background kanan sama seperti login
+- Desktop membuka link di tab baru
+- Mobile menampilkan pilihan Google Drive
